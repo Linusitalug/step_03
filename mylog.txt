@@ -1,0 +1,107 @@
+check group empty or not
+this group is not empty
+click on 3 dots
+click on more
+find 
+export csv   NCR Motor & Property V
+click on 3 dots
+click on more
+click on export chat
+click on withot media
+media not find
+click on withot media
+media not find
+click on copy_to
+click on .aaaa folder
+click on paste_botton
+click on already_exist
+already no found
+exit .aaa folder
+exit fild manager
+--- 74.08673405647278 seconds ---
+exit from group
+check group empty or not
+this group is not empty
+click on 3 dots
+click on more
+find 
+export csv   3️⃣SAI BABA PROP. ROHINI
+click on 3 dots
+click on more
+click on export chat
+click on withot media
+media not find
+click on withot media
+media not find
+click on copy_to
+click on .aaaa folder
+click on paste_botton
+click on already_exist
+already no found
+exit .aaa folder
+exit fild manager
+--- 97.8501307964325 seconds ---
+exit from group
+already exported today ===>    NCR Motor & Property V
+check group empty or not
+this group is not empty
+click on 3 dots
+click on more
+find 
+more not found
+export csv   
+already exported today ===>    3️⃣SAI BABA PROP.…
+this group is disable ===>    GGM Properties 5
+check group empty or not
+this group is not empty
+click on 3 dots
+click on more
+find 
+export csv   GRg Collaboration plots
+click on 3 dots
+click on more
+click on export chat
+no found
+[Sat, 15 Apr 2023 00:04:18] - collect_export_csv_file - exit .aaa folder
+[Sat, 15 Apr 2023 00:04:21] - collect_export_csv_file - exit fild manager
+[Sat, 15 Apr 2023 00:04:23] - save_csv_into_database - --- 74.08673405647278 seconds ---
+[Sat, 15 Apr 2023 00:04:23] - update_exported_table_details - exit from group
+[Sat, 15 Apr 2023 00:04:33] - check_group_empty_or_not - check group empty or not
+[Sat, 15 Apr 2023 00:04:34] - check_group_empty_or_not - this group is not empty
+[Sat, 15 Apr 2023 00:04:34] - find_full_group_name - click on 3 dots
+[Sat, 15 Apr 2023 00:04:37] - find_full_group_name - click on more
+[Sat, 15 Apr 2023 00:04:41] - find_full_group_name - find 
+[Sat, 15 Apr 2023 00:04:48] - collect_export_csv_file - click on 3 dots
+[Sat, 15 Apr 2023 00:04:50] - collect_export_csv_file - click on more
+[Sat, 15 Apr 2023 00:04:53] - collect_export_csv_file - click on export chat
+[Sat, 15 Apr 2023 00:05:02] - collect_export_csv_file - click on withot media
+[Sat, 15 Apr 2023 00:05:03] - collect_export_csv_file - media not find
+[Sat, 15 Apr 2023 00:05:03] - collect_export_csv_file - click on withot media
+[Sat, 15 Apr 2023 00:05:03] - collect_export_csv_file - media not find
+[Sat, 15 Apr 2023 00:05:05] - collect_export_csv_file - click on copy_to
+[Sat, 15 Apr 2023 00:05:07] - collect_export_csv_file - click on .aaaa folder
+[Sat, 15 Apr 2023 00:05:09] - collect_export_csv_file - click on paste_botton
+[Sat, 15 Apr 2023 00:06:01] - collect_export_csv_file - click on already_exist
+[Sat, 15 Apr 2023 00:06:01] - collect_export_csv_file - already no found
+[Sat, 15 Apr 2023 00:06:01] - collect_export_csv_file - exit .aaa folder
+[Sat, 15 Apr 2023 00:06:04] - collect_export_csv_file - exit fild manager
+[Sat, 15 Apr 2023 00:06:06] - save_csv_into_database - --- 97.8501307964325 seconds ---
+[Sat, 15 Apr 2023 00:06:06] - update_exported_table_details - exit from group
+[Sat, 15 Apr 2023 00:06:11] - go_inside_a_group - already exported today ===>    NCR Motor & Property V
+[Sat, 15 Apr 2023 00:06:17] - check_group_empty_or_not - check group empty or not
+[Sat, 15 Apr 2023 00:06:17] - check_group_empty_or_not - this group is not empty
+[Sat, 15 Apr 2023 00:06:18] - find_full_group_name - click on 3 dots
+[Sat, 15 Apr 2023 00:06:21] - find_full_group_name - click on more
+[Sat, 15 Apr 2023 00:06:36] - find_full_group_name - find 
+[Sat, 15 Apr 2023 00:06:37] - find_full_group_name - more not found
+[Sat, 15 Apr 2023 00:06:37] - go_inside_a_group - export csv   
+[Sat, 15 Apr 2023 00:07:10] - get_all_group_list - this group is disable ===>    GGM Properties 5
+[Sat, 15 Apr 2023 00:07:16] - check_group_empty_or_not - check group empty or not
+[Sat, 15 Apr 2023 00:07:16] - check_group_empty_or_not - this group is not empty
+[Sat, 15 Apr 2023 00:07:17] - find_full_group_name - click on 3 dots
+[Sat, 15 Apr 2023 00:07:20] - find_full_group_name - click on more
+[Sat, 15 Apr 2023 00:07:25] - find_full_group_name - find 
+[Sat, 15 Apr 2023 00:08:03] - go_inside_a_group - export csv   GRg Collaboration plots
+[Sat, 15 Apr 2023 00:08:05] - collect_export_csv_file - click on 3 dots
+[Sat, 15 Apr 2023 00:08:07] - collect_export_csv_file - click on more
+[Sat, 15 Apr 2023 00:08:10] - collect_export_csv_file - click on export chat
